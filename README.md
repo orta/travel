@@ -5,9 +5,9 @@ This contains the most up to date record of my travel plans
 
 
 | Location        | Date           | Reason  |
-| ------------- |:-------------:| -----:|
-| Manchester      | 7th Dec | Wedding |
-| India      | 10th Dec |  Wedding |
+| ------------- |:-------------:| :-----|
+| Manchester      | 7th Dec | - |
+| India      | 10th Dec | Wedding |
 | Manchester | 20th Dec | Winterval |
 | Poland | 9th Jan | [MCE Conference](http://mobilecentraleurope.com/) |
 | Manchester | 12th Jan| Gap |
