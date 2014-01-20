@@ -13,6 +13,7 @@ This contains the most up to date record of my travel plans
 | Manchester | 2nd March | - |
 | Amsterdam | 7th - 9nd March | [mdevcon](http://mdevcon.com) |
 | NYC | ~11th March | -  |
+| Istanbul, Turkey | ~28th April | -  |
 
 ### Archives
 
