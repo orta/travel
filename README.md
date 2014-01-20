@@ -12,7 +12,7 @@ This contains the most up to date record of my travel plans
 | NYC | ~28th Feb | -  |
 | Manchester | 2nd March | - |
 | Amsterdam | 7th - 9nd March | [mdevcon](http://mdevcon.com) |
-| NYC | ~11th Feb | -  |
+| NYC | ~11th March | -  |
 
 ### Archives
 
