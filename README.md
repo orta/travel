@@ -19,8 +19,6 @@ This contains the most up to date record of my travel plans
 | --------------- |:--------------:| :-------|
 | Logrono, Spain | 17 - 19 September | Attending [NSSpain](https://nsspain.com) |
 
-https://github.com/orta/travel
-
 ### Archives
 
 | Location        | Date           | Reason  |
