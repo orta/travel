@@ -5,11 +5,12 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Amsterdam | 7th - 9nd March | [mdevcon](http://mdevcon.com) |
-| NYC | ~11th March | -  |
-| Istanbul, Turkey | 26th April - 4th May | [Istanbul Tech Talks](http://istanbultechtalks.com) |
-| Berlin, Germany |  13 - 16 May | [UIKonf](http://uikonf.com) |
-| San Francisco, CA |  28 - 29 May | [motion#inspect](http://www.rubymotion.com/conference/2014/) |
+| Berlin, Germany |  13th - 16th May | [UIKonf](http://uikonf.com) |
+| San Francisco, CA |  27th - 29th May | [motion#inspect](http://www.rubymotion.com/conference/2014/) |
+| San Francisco, CA |  3th - 8th June | [altconf](http://altconf.com) |
+| NYC |  8th June - 2rd July | [ArtsyHQ](http://www.artsy.net/) |
+| Stockholm, Sweden |  4th - 8th July | [CocoaHeads Stocholm](https://github.com/orta/life/issues/30/) |
+| Vienna, Austria |  12th - 13th July | [Peter Steinberger](https://petersteinberger.com/) |
 
 ### Forever away
 
@@ -31,3 +32,6 @@ This contains the most up to date record of my travel plans
 | NYC | 28rd Jan | I like NYC |
 | Madison, WI | 20th Feb | [Snow*Mobile](http://www.snow-mobile.org) |
 | NYC | ~28th Feb | -  |
+| Amsterdam | 7th - 9nd March | [mdevcon](http://mdevcon.com) |
+| NYC | ~11th March | -  |
+| Istanbul, Turkey | 26th April - 4th May | [Istanbul Tech Talks](http://istanbultechtalks.com) |
