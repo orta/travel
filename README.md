@@ -8,15 +8,16 @@ This contains the most up to date record of my travel plans
 | Berlin, Germany |  13th - 16th May | [UIKonf](http://uikonf.com) |
 | San Francisco, CA |  27th - 29th May | [motion#inspect](http://www.rubymotion.com/conference/2014/) |
 | San Francisco, CA |  3th - 8th June | [altconf](http://altconf.com) |
-| NYC |  8th June - 2rd July | [ArtsyHQ](http://www.artsy.net/) |
-| Stockholm, Sweden |  4th - 8th July | [CocoaHeads Stocholm](https://github.com/orta/life/issues/30/) |
+| NYC |  8th June - 2rd July | [Artsy](http://www.artsy.net/) |
+| Stockholm, Sweden |  4th - 8th July | [CocoaHeads Stockholm](https://github.com/orta/life/issues/30/) |
 | Vienna, Austria |  12th - 13th July | [Peter Steinberger](https://petersteinberger.com/) |
+| NYC |  18th July -  | [Artsy](http://www.artsy.net/) |
 
 ### Forever away
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Logrono, Spain | 17 - 19 September | Attending [NSSpain](https://nsspain.com) |
+| Logrono, Spain | 17 - 19 September | Probably Attending [NSSpain](https://nsspain.com) |
 
 ### Archives
 
