@@ -14,7 +14,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Logrono, Spain | 17 - 19 September | Probably Attending [NSSpain](https://nsspain.com) |
+| Logrono, Spain | 17 - 19 September | Attending [NSSpain](https://nsspain.com) |
 | Warsaw, Poland | Feb 2015 | Probably Attending [MCE](http://mobilecentraleurope.com) |
 
 
