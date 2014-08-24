@@ -7,7 +7,7 @@ This contains the most up to date record of my travel plans
 | --------------- |:--------------:| :-------|
 | NYC |  18th July - 11th Sept | [Artsy](http://www.artsy.net/) |
 | Logrono, Spain | 17 - 19 September | Attending [NSSpain](https://nsspain.com) |
-| Milan, Italy | 17 - 19 September | Attending [Pragma Mark](https://nsspain.com) |
+| Milan, Italy | 3 - 4 October | Attending [Pragma Mark](http://pragmamark.org) |
 
 
 ### Forever away
