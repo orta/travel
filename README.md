@@ -8,6 +8,7 @@ This contains the most up to date record of my travel plans
 | NYC |  18th July - 11th Sept | [Artsy](http://www.artsy.net/) |
 | Logrono, Spain | 17 - 19 September | Attending [NSSpain](https://nsspain.com) |
 | Milan, Italy | 3 - 4 October | [Pragma Mark](http://pragmamark.org) |
+| Moscow, Russia | 30 October | YAC |
 
 
 ### Forever away
@@ -40,3 +41,4 @@ This contains the most up to date record of my travel plans
 | NYC |  8th June - 2rd July | [Artsy](http://www.artsy.net/) |
 | Stockholm, Sweden |  4th - 8th July | [CocoaHeads Stockholm](https://github.com/orta/life/issues/30/) |
 | Vienna, Austria |  12th - 13th July | [Peter Steinberger](https://petersteinberger.com/) |
+| NYC |  30th August | [A Swift Start](http://aswiftstart.com) |
