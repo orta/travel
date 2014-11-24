@@ -5,14 +5,9 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Moscow, Russia | 30 October | YAC |
 
 
-### Forever away
-
-| Location        | Date           | Reason  |
-| --------------- |:--------------:| :-------|
-| Warsaw, Poland | Feb 2015 | Probably Attending [MCE](http://mobilecentraleurope.com) |
+Empty!
 
 
 ### Archives
@@ -42,3 +37,5 @@ This contains the most up to date record of my travel plans
 | NYC |  18th July - 11th Sept | [Artsy](http://www.artsy.net/) |
 | Logrono, Spain | 17 - 19 September | Attending [NSSpain](https://nsspain.com) |
 | Milan, Italy | 3 - 4 October | [Pragma Mark](http://pragmamark.org) |
+| Moscow, Russia | 30 October | YAC |
+| Manchester, UK | 21 Nov | - |
