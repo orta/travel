@@ -5,12 +5,33 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
+| NYC         | - | - |
+| Manchester  | 30th April | - |
+| NYC         | 26th May | - |
+| Detroit     | 28th - 31st May  | [Self Conference](http://selfconference.org) |
+| NYC         | 31st May  | - |
+| SF          | 8th - 12th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
+| Austria     | 25ish June  | Go see Steipete |
+
+### Events for note
+
+* 4th July, Mum Ordained
+* ???, Friends Wedding
+
+
+### Far Away
+
+| Location        | Date           | Reason  |
+| --------------- |:--------------:| :-------|
+| Aarhus, Denmark | October 1st - 2nd | GOTO Aarhus |
 
 
 Empty!
 
 
 ### Archives
+
+##### 2014
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
