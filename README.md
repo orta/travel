@@ -16,7 +16,7 @@ This contains the most up to date record of my travel plans
 ### Events for note
 
 * 4th July, Mum Ordained
-* ???, Friends Wedding
+* October 3rd, Friends Wedding
 
 
 ### Far Away
