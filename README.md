@@ -5,6 +5,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
+| NYC         | 9th April  | Speaking at CocoaHeads NYC |
 | NYC         | - | - |
 | Manchester  | 30th April | - |
 | NYC         | 26th May | - |
