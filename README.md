@@ -24,7 +24,9 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Aarhus, Denmark | October 1st - 2nd | GOTO Aarhus |
+| Copenhagen, Denmark | October 1st - 2nd | GOTO Copenhagen |
+| Florence, Italy | October 9th - 10th | #pragma mark 2015 |
+
 
 
 Empty!
