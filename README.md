@@ -6,7 +6,8 @@ This contains the most up to date record of my travel plans
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
 | NYC         | 31st May  | - |
-| SF          | 8th - 12th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
+| SF          | 8th - 15th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
+| NYC         | - | - |
 | Austria     | 25ish June  | Go see Steipete |
 | Belarus     | 14th July | CocoaHeadBY (probably) |
 | Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
