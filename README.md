@@ -5,14 +5,13 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| NYC         | 9th April  | Speaking at CocoaHeads NYC |
-| NYC         | - | - |
-| Manchester  | 30th April | - |
-| NYC         | 26th May | - |
-| Detroit     | 28th - 31st May  | [Self Conference](http://selfconference.org) |
 | NYC         | 31st May  | - |
 | SF          | 8th - 12th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
 | Austria     | 25ish June  | Go see Steipete |
+| Belarus     | 14th July | CocoaHeadBY (probably) |
+| Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
+| Florence, Italy | October 9th - 10th | #pragma mark 2015 |
+
 
 ### Events for note
 
@@ -20,19 +19,17 @@ This contains the most up to date record of my travel plans
 * October 3rd, Friends Wedding
 
 
-### Far Away
+### Archives
+
+##### 2015
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Copenhagen, Denmark | October 1st - 2nd | GOTO Copenhagen |
-| Florence, Italy | October 9th - 10th | #pragma mark 2015 |
-
-
-
-Empty!
-
-
-### Archives
+| NYC         | Jan 1st - 9th April  | - |
+| NYC         | 9th April | Speaking at CocoaHeads NYC |
+| Manchester  | 30th April | - |
+| NYC         | 26th May | - |
+| Detroit     | 28th - 31st May  | [Self Conference](http://selfconference.org) |
 
 ##### 2014
 
@@ -63,3 +60,4 @@ Empty!
 | Milan, Italy | 3 - 4 October | [Pragma Mark](http://pragmamark.org) |
 | Moscow, Russia | 30 October | YAC |
 | Manchester, UK | 21 Nov | - |
+
