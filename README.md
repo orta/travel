@@ -17,6 +17,7 @@ This contains the most up to date record of my travel plans
 ### Events for note
 
 * 4th July, Mum Ordained
+* July 29-31 Artsy offsite
 * October 3rd, Friends Wedding
 
 
