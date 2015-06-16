@@ -5,8 +5,6 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| NYC         | 31st May  | - |
-| SF          | 8th - 15th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
 | NYC         | - | - |
 | Austria     | 25ish June  | Go see Steipete |
 | Belarus     | 14th July | CocoaHeadBY (probably) |
@@ -33,6 +31,8 @@ This contains the most up to date record of my travel plans
 | Manchester  | 30th April | - |
 | NYC         | 26th May | - |
 | Detroit     | 28th - 31st May  | [Self Conference](http://selfconference.org) |
+| NYC         | 31st May  | - |
+| SF          | 8th - 15th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
 
 ##### 2014
 
