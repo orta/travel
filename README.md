@@ -10,7 +10,6 @@ This contains the most up to date record of my travel plans
 | Belarus     | 14th July | CocoaHeadBY (probably) |
 | Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
 | Florence, Italy | October 9th - 10th | #pragma mark 2015 |
-| Moscow, Russia | October 15ish | MBLTdev |
 
 
 ### Events for note
