@@ -8,6 +8,7 @@ This contains the most up to date record of my travel plans
 | NYC         | - | - |
 | Austria     | 25ish June  | Go see Steipete |
 | Belarus     | 14th July | CocoaHeadBY (probably) |
+| Belarus     | 25th-ish July | NYC |
 | Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
 | Florence, Italy | October 9th - 10th | #pragma mark 2015 |
 
