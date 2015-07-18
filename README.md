@@ -5,9 +5,6 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| NYC         | - | - |
-| Austria     | 25ish June  | Go see Steipete |
-| Belarus     | 14th July | CocoaHeadBY (probably) |
 | NYC     | 25th-ish July | NYC |
 | Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
 | Florence, Italy | October 9th - 10th | #pragma mark 2015 |
@@ -33,6 +30,9 @@ This contains the most up to date record of my travel plans
 | Detroit     | 28th - 31st May  | [Self Conference](http://selfconference.org) |
 | NYC         | 31st May  | - |
 | SF          | 8th - 15th June   | [WWDC Stuff](http://www.appletimer.com/wwdc/) |
+| NYC         | - | - |
+| Austria     | 25ish June  | Go see Steipete |
+| Belarus     | 14th July | CocoaHeadBY (probably) |
 
 ##### 2014
 
