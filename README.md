@@ -5,9 +5,6 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| NYC     | 25th-ish July | NYC |
-| Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
-| Florence, Italy | October 9th - 10th | #pragma mark 2015 |
 
 
 ### Events for note
@@ -63,4 +60,7 @@ This contains the most up to date record of my travel plans
 | Milan, Italy | 3 - 4 October | [Pragma Mark](http://pragmamark.org) |
 | Moscow, Russia | 30 October | YAC |
 | Manchester, UK | 21 Nov | - |
+| NYC     | 25th-ish July | NYC |
+| Copenhagen, Denmark | October 5th - 6th | GOTO Copenhagen |
+| Florence, Italy | October 9th - 10th | #pragma mark 2015 |
 
