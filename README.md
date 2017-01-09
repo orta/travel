@@ -2,10 +2,20 @@
 
 This contains the most up to date record of my travel plans
 
+### 2017
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-
+| NYC             | 1st Jan - 12 Feb  | - |
+| Manchester      | 12 Feb - 9th April  | - |
+| Tokyo           | 12 Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
+| Manchester      | 21st March - 9th April  | - |
+| Budapest        | 25 April - 28 April  | [Craft Conf](http://craft-conf.com)|
+| Manchester      | 21st March - 9th April  | - |
+| Warsaw          | 8th May - 10th May  | [MCE^4](http://2017.mceconf.com) |
+| Huddersfield    | 13th May | Wedding |
+| NYC             | ~ June  | Moving Danger over |
+| NYC             | 7th July - 14th July  | Friends come over to NYC |
 
 ### Archives
 
@@ -13,7 +23,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| NYC         | Jan 1st - 9th April  | - |
+| NYC         | 1st Jan - 9th April  | - |
 | NYC         | 9th April | Speaking at CocoaHeads NYC |
 | Manchester  | 30th April | - |
 | NYC         | 26th May | - |
