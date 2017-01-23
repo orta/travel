@@ -4,18 +4,18 @@ This contains the most up to date record of my travel plans
 
 ### 2017
 
-| Location        | Date           | Reason  |
-| --------------- |:--------------:| :-------|
-| NYC             | 1st Jan - 12 Feb  | - |
-| Manchester      | 12 Feb - 9th April  | - |
-| Tokyo           | 12 Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
-| Manchester      | 21st March - 9th April  | - |
-| Budapest        | 25 April - 28 April  | [Craft Conf](http://craft-conf.com)|
-| Manchester      | 21st March - 9th April  | - |
-| Warsaw          | 8th May - 10th May  | [MCE^4](http://2017.mceconf.com) |
-| Huddersfield    | 13th May | Wedding |
-| NYC             | ~ June  | Moving Danger over |
-| NYC             | 7th July - 14th July  | Friends come over to NYC |
+| Location         | Date           | Reason  |
+| ---------------- |:--------------:| :-------|
+| NYC              | 1st Jan - 12 Feb  | - |
+| Manchester       | 12 Feb - 9th April  | - |
+| Tokyo            | 12 Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
+| Manchester       | 21st March - 9th April  | - |
+| Budapest         | 25 April - 28 April  | [Craft Conf](http://craft-conf.com)|
+| Manchester       | 21st March - 9th April  | - |
+| Huddersfield     | 13th May | Wedding |
+| Aveiro, Portugal | 1st - 2nd June | [SwiftAveiro](http://swiftaveiro.xyz) |
+| NYC              | ~ June  | Moving Danger over |
+| NYC              | 7th July - 14th July  | Friends come over to NYC |
 
 ### Archives
 
