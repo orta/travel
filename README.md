@@ -10,7 +10,7 @@ This contains the most up to date record of my travel plans
 | Manchester       | 12 Feb - 9th April  | - |
 | Tokyo            | 12 Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
 | Manchester       | 21st March - 9th April  | - |
-| Budapest         | 25 April - 28 April  | [Craft Conf](http://craft-conf.com)|
+| Budapest         | 26 April - 30 April  | [Craft Conf](http://craft-conf.com)|
 | Manchester       | 21st March - 9th April  | - |
 | Huddersfield     | 13th May | Wedding |
 | Aveiro, Portugal | 1st - 2nd June | [SwiftAveiro](http://swiftaveiro.xyz) |
