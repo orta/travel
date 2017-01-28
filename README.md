@@ -7,11 +7,11 @@ This contains the most up to date record of my travel plans
 | Location         | Date           | Reason  |
 | ---------------- |:--------------:| :-------|
 | NYC              | 1st Jan - 12 Feb  | - |
-| Manchester       | 12 Feb - 9th April  | - |
-| Tokyo            | 12 Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
-| Manchester       | 21st March - 9th April  | - |
+| Manchester       | 12 Feb - 27th Feb  | - |
+| Tokyo            | 27 Feb - 20th March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
+| Manchester       | 21st March - 26th April  | - |
 | Budapest         | 26 April - 30 April  | [Craft Conf](http://craft-conf.com)|
-| Manchester       | 21st March - 9th April  | - |
+| Manchester       | 30th April - 31st May  | - |
 | Huddersfield     | 13th May | Wedding |
 | Aveiro, Portugal | 1st - 2nd June | [SwiftAveiro](http://swiftaveiro.xyz) |
 | NYC              | ~ June  | Moving Danger over |
