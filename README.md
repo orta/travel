@@ -7,7 +7,7 @@ This contains the most up to date record of my travel plans
 | Location         | Date           | Reason  |
 | ---------------- |:--------------:| :-------|
 | NYC              | 1st Jan - 12th Feb  | - |
-| Manchester       | 12th Feb - 27th Geb  | - |
+| Manchester       | 12th Feb - 27th Feb  | - |
 | Tokyo            | 27th Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
 | Manchester       | 21st March - 9th April  | - |
 | Budapest         | 26th April - 30th April  | [Craft Conf](http://craft-conf.com)|
