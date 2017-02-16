@@ -14,6 +14,7 @@ This contains the most up to date record of my travel plans
 | Manchester       | 21st March - 9th April  | - |
 | Huddersfield     | 13th May | Wedding |
 | Aveiro, Portugal | 1st - 2nd June | [SwiftAveiro](http://swiftaveiro.xyz) |
+| Bavarian Forest  | 6th - 7th June | [Woid:Conf](http://woidkonf.com/index) |
 | NYC              | ~ June  | Moving Danger over |
 | NYC              | 7th July - 14th July  | Friends come over to NYC |
 
