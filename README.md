@@ -12,7 +12,7 @@ This contains the most up to date record of my travel plans
 | Manchester       | 21st March - 26th April  | - |
 | NYC              | 2nd April - 16th April  | - |
 | Budapest         | 26th April - 30th April  | [Craft Conf](http://craft-conf.com)|
-| Manchester       | 21st March - 9th April  | - |
+| Manchester       | 30th April - 1st June  | - |
 | Huddersfield     | 13th May | Wedding |
 | Aveiro, Portugal | 1st - 2nd June | [SwiftAveiro](http://swiftaveiro.xyz) |
 | Bavarian Forest  | 6th - 7th June | [Woid:Conf](http://woidkonf.com/index) |
