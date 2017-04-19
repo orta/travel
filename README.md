@@ -6,10 +6,6 @@ This contains the most up to date record of my travel plans
 
 | Location         | Date           | Reason  |
 | ---------------- |:--------------:| :-------|
-| NYC              | 1st Jan - 12th Feb  | - |
-| Manchester       | 12th Feb - 27th Feb  | - |
-| Tokyo            | 27th Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
-| Manchester       | 21st March - 26th April  | - |
 | NYC              | 9th April - 23rd April  | - |
 | Budapest         | 26th April - 30th April  | [Craft Conf](http://craft-conf.com)|
 | Manchester       | 30th April - 1st June  | - |
@@ -20,6 +16,16 @@ This contains the most up to date record of my travel plans
 | NYC              | 7th July - 14th July  | Friends come over to NYC |
 
 ### Archives
+
+### 2017
+
+| Location         | Date           | Reason  |
+| ---------------- |:--------------:| :-------|
+| NYC              | 1st Jan - 12th Feb  | - |
+| Manchester       | 12th Feb - 27th Feb  | - |
+| Tokyo            | 27th Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
+| Manchester       | 21st March - 26th April  | - |
+
 
 ##### 2015
 
