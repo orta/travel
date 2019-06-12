@@ -7,7 +7,7 @@ This contains the most up to date record of my travel plans
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
 | Oslo, Norway  | ~14th August (?) | Internal MS conf |
-| Seattle, WA  | ~11th October (?) | [TSConf](https://tsconf.io) |
+| Seattle, WA  | ~11th October (?) | [TSConf](https://tsconf.io) + see TS team |
 | Warsaw, Poland  | ~6th Sept - ~9th Sept | [React Native EU](https://react-native.eu) |
 | Redmond, WA     | 9th June - 28th June | Onboarding for MS |
 
