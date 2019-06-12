@@ -13,6 +13,10 @@ This contains the most up to date record of my travel plans
 
 ### Archives
 
+### 2018
+
+Was a chill year
+
 ### 2017
 
 | Location         | Date           | Reason  |
