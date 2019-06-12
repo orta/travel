@@ -2,6 +2,17 @@
 
 This contains the most up to date record of my travel plans
 
+### 2019
+
+| Location        | Date           | Reason  |
+| --------------- |:--------------:| :-------|
+| Warsaw, Poland  | 6th Sept - 9th Sept | [React Native EU](https://react-native.eu) |
+| Redmond, WA     | 9th June - 28th June | Onboarding for MS |
+
+
+
+### Archives
+
 ### 2017
 
 | Location         | Date           | Reason  |
@@ -15,7 +26,6 @@ This contains the most up to date record of my travel plans
 | NYC              | ~ June  | Moving Danger over |
 | NYC              | 7th July - 14th July  | Friends come over to NYC |
 
-### Archives
 
 ### 2017
 
