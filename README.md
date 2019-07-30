@@ -6,14 +6,17 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Oslo, Norway  | ~14th August (?) | Internal MS conf |
-| Seattle, WA  | ~11th October (?) | [TSConf](https://tsconf.io) + see TS team |
-| Warsaw, Poland  | ~6th Sept - ~9th Sept | [React Native EU](https://react-native.eu) |
-| Redmond, WA     | 9th June - 28th June | Onboarding for MS |
-
-
+| Warsaw, Poland  | 6th Sept - 9th Sept | [React Native EU](https://react-native.eu) |
+| Seattle, WA  | 11th October | [TSConf](https://tsconf.io) + see TS team |
+| San Francisco, CA  | 29th October | [GraphQL Summit](https://summit.graphql.com) |
 
 ### Archives
+
+### 2019
+
+| Location        | Date           | Reason  |
+| --------------- |:--------------:| :-------|
+| Redmond, WA     | 9th June - 28th June | Onboarding for MS |
 
 ### 2018
 
