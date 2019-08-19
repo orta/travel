@@ -6,6 +6,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
+| Port Alegre, Brasil  | 23rd Aug - 27th Aug | [BrazilJS](https://braziljs.org/eventos/braziljs-conf/) |
 | Warsaw, Poland  | 6th Sept - 9th Sept | [React Native EU](https://react-native.eu) |
 | Seattle, WA  | 11th October | [TSConf](https://tsconf.io) + see TS team |
 | San Francisco, CA  | 29th October | [GraphQL Summit](https://summit.graphql.com) |
