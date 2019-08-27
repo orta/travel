@@ -35,12 +35,6 @@ Was a chill year
 | Bavarian Forest  | 6th - 7th June | [Woid:Conf](http://woidkonf.com/index) |
 | NYC              | ~ June  | Moving [Danger](http://danger.systems) over |
 | NYC              | 7th July - 14th July  | Friends come over to NYC |
-
-
-### 2017
-
-| Location         | Date           | Reason  |
-| ---------------- |:--------------:| :-------|
 | NYC              | 1st Jan - 12th Feb  | - |
 | Manchester       | 12th Feb - 27th Feb  | - |
 | Tokyo            | 27th Feb - 21st March  | [Try Swift Tokyo](https://www.tryswift.co/tokyo/jp) + Honeymoon |
